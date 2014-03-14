@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Some of my dot files
+Some of my configuration files that I don't want to forget.
